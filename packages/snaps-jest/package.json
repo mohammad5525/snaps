@@ -62,7 +62,7 @@
     "@jest/globals": "^29.5.0",
     "@metamask/snaps-controllers": "workspace:^",
     "@metamask/snaps-sdk": "workspace:^",
-    "@metamask/snaps-simulation": "workspace:^",
+    "@metamask/snaps-simulation": "3.5.1",
     "@metamask/superstruct": "^3.2.1",
     "@metamask/utils": "^11.4.0",
     "express": "^5.1.0",
