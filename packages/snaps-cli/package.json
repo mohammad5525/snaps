@@ -67,7 +67,7 @@
     "@metamask/snaps-sandbox": "workspace:^",
     "@metamask/snaps-sdk": "workspace:^",
     "@metamask/snaps-utils": "workspace:^",
-    "@metamask/snaps-webpack-plugin": "workspace:^",
+    "@metamask/snaps-webpack-plugin": "0.12.0",
     "@metamask/superstruct": "^3.2.1",
     "@metamask/utils": "^11.4.0",
     "@swc/core": "1.3.78",
@@ -102,7 +102,7 @@
     "url": "^0.11.1",
     "util": "^0.12.5",
     "vm-browserify": "^1.1.2",
-    "webpack": "^5.97.1",
+    "webpack": "^5.104.1",
     "webpack-bundle-analyzer": "^4.10.2",
     "webpack-merge": "^5.9.0",
     "yargs": "^17.7.1"
